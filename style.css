@@ -1315,5 +1315,9 @@ footer {
     }
 }
 
-
+@media (max-width:480px) {
+    .cards-2{
+        width: 100% !important;
+    }
+}
 
